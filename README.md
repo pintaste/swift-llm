@@ -1,6 +1,6 @@
 # swift-llm
 
-![Swift](https://img.shields.io/badge/Swift-5.9-orange) ![SPM](https://img.shields.io/badge/SPM-compatible-blue) ![Platform](https://img.shields.io/badge/platform-iOS%2015%2B%20%7C%20macOS%2012%2B-lightgrey)
+![Swift](https://img.shields.io/badge/Swift-5.9-orange) ![SPM](https://img.shields.io/badge/SPM-compatible-blue) ![Platform](https://img.shields.io/badge/platform-iOS%2015%2B%20%7C%20macOS%2012%2B-lightgrey) ![Tests](https://github.com/pintaste/swift-llm/actions/workflows/test.yml/badge.svg)
 
 Native Swift Package for Claude and OpenAI — async/await, streaming, multi-turn, zero dependencies.
 
